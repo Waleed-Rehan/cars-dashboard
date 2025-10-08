@@ -23,11 +23,32 @@ Welcome to **Cars Dashboard** — a futuristic Laravel-powered platform designed
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏁 Welcome Page
+![Welcome](screenshots/welcome.png)
+
+### 📊 Dashboard View
+![Dashboard](screenshots/dashboard.png)
+
+### 🌙 Dashboard (Dark Mode)
+![Dark Mode](screenshots/dashboard-dark.png)
+
+### ➕ Add Car Form
+![Add Car](screenshots/add-car.png)
+
+### ✏️ Edit Car Form
+![Edit Car](screenshots/edit-car.png)
+
+### 🔍 Show Car Details
+![Details](screenshots/show-details.png)
+
+
 ## 🚀 Tech Stack
 
 | Layer         | Technology         |
 |---------------|--------------------|
-| Backend       | Laravel 10.x        |
+| Backend       | Laravel 12.x        |
 | Frontend      | Blade + TailwindCSS |
 | Database      | MySQL / SQLite      |
 | Auth          | Laravel Breeze      |
